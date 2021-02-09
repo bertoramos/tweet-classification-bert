@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tweets xmlns="http://www.daedalus.es/TASS/tweets" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.daedalus.es/TASS/tweets.xsd">
+ <tweet>
+  <tweetid>142378325086715906</tweetid>
+  <user>jesusmarana</user>
+  <content><![CDATA['Portada 'Público', viernes. Fabra al banquillo por 'orden' del Supremo; Wikileaks 'retrata' a 160 empresas espías. http://t.co/YtpRU0fd]]></content>
+  <date>2011-12-02T00:03:32</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>N+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Wikileaks</entity><value>N+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Fabra</entity><value>N+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142379080808013825</tweetid>
+  <user>EvaORegan</user>
+  <content><![CDATA['Grande! RT @veronicacalderon "El periodista es alguien que quiere contar la realidad, pero no vive en ella" via @galtares]]></content>
+  <content/>
+  <date>2011-12-02T00:06:32</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+   <topic>entretenimiento</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142379173120442368</tweetid>
+  <user>LosadaPescador</user>
+  <content><![CDATA['Gonzalo Altozano tras la presentación de su libro 101 españoles y Dios. Divertido, emocionante y brillante. http://t.co/4BdljMhB]]></content>
+  <date>2011-12-02T00:06:55</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Gonzalo_Altozano</entity><value>P</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>literatura</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142379815708803072</tweetid>
+  <user>mgilguerrero</user>
+  <content><![CDATA['Mañana en Gaceta: TVE, la que pagamos tú y yo, culpa a una becaria de su falsa información sobre el cierre de @gaceta]]></content>
+  <date>2011-12-02T00:09:28</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>N</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>TVE_S.A</entity><value>N</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>@gaceta</entity><value>N</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+   <topic>entretenimiento</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142381190123499520</tweetid>
+  <user>pedroj_ramirez</user>
+  <content><![CDATA['Qué envidia “@mfcastineiras: Pedro mañana x la mañana me voy a Paris, cuando esté por la almendra parisina recordaré #Elprimernaufragio.”]]></content>
+  <date>2011-12-02T00:14:55</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>N</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>literatura</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142382515380961280</tweetid>
+  <user>mgilguerrero</user>
+  <content><![CDATA['Más mañana en Gaceta. Amaiur depende de Uxue Barkos para crear grupo propio. ERC no cumple el req. del 15% y el PNV no quiere competencia]]></content>
+  <date>2011-12-02T00:20:11</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NEU</value><type>DISAGREEMENT</type></polarity>
+   <polarity><entity>Amaiur</entity><value>P</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Uxue_Barkos</entity><value>P</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>ERC</entity><value>N</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>PNV</entity><value>N</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142382561501511680</tweetid>
+  <user>SSantiagosegura</user>
+  <content><![CDATA['Muy buenas noches followercetes, mañana va a ser un día bastante mitico para mi, ya os contare... http://t.co/U4obbEqe]]></content>
+  <date>2011-12-02T00:20:23</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142382722910912512</tweetid>
+  <user>mgilguerrero</user>
+  <content><![CDATA['Más de mañana en Gaceta. UPyD contará casi seguro con grupo gracias al Foro Asturias. Eso se dice en el Congreso]]></content>
+  <date>2011-12-02T00:21:01</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>UPyD</entity><value>P</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Foro_Asturias</entity><value>P</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142384554206961664</tweetid>
+  <user>mariviromero</user>
+  <content><![CDATA['La felicidad no esta en los grandes anhelos , sino con pequeñas cosas que ocurren todos los días. Buenas noches , mañana mas ;-))]]></content>
+  <date>2011-12-02T00:28:17</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142384972194521088</tweetid>
+  <user>Fgarea</user>
+  <content><![CDATA['#ff para @pperezf]]></content>
+  <date>2011-12-02T00:29:57</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NONE</value></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142386873539637248</tweetid>
+  <user>mgilguerrero</user>
+  <content><![CDATA['"Ya lo veremos, ya lo veremos..." les ha respondido Rajoy a Rudi y Bauzá cuando han reclamado la moratoria sobre la deuda. Mañana en @gaceta]]></content>
+  <date>2011-12-02T00:37:30</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>N+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Bauzá</entity><value>N+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Rudi</entity><value>N+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+   <topic>economía</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142387377162301440</tweetid>
+  <user>RV1805</user>
+  <content><![CDATA['Definitivamente, creo que me he resfriado. Con este tiempo de locos que ha estado haciendo estos meses, ahora toca las consecuencias.]]></content>
+  <date>2011-12-02T00:39:30</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>N</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142387445416210433</tweetid>
+  <user>CarmendelRiego</user>
+  <content><![CDATA['Habia prometido responder a todos, pero me ha sido imposible. Y hoy no doy para mas. MUCHAS GRACIAS A TODOS]]></content>
+  <date>2011-12-02T00:39:47</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NEU</value><type>DISAGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142389495503925248</tweetid>
+  <user>ccifuentes</user>
+  <content><![CDATA['Salgo de #VeoTV , que día más largoooooo...]]></content>
+  <date>2011-12-02T00:47:55</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NONE</value></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142389851369635840</tweetid>
+  <user>ccifuentes</user>
+  <content><![CDATA['Muchas gracias a todos por los comentarios durante el programa de hoy en #VeoTV @MundoaCuestas :-))]]></content>
+  <date>2011-12-02T00:49:20</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>entretenimiento</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142389933619945473</tweetid>
+  <user>CarmendelRiego</user>
+  <content><![CDATA['@PauladeLasHeras No te libraras de ayudar me/nos. Besos y gracias]]></content>
+  <date>2011-12-02T00:49:40</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>N+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142390954547097602</tweetid>
+  <user>CarmendelRiego</user>
+  <content><![CDATA['@lazaroelmundo Me ayudaras aunque no seas de la asociacion, y acabaras haciendote]]></content>
+  <date>2011-12-02T00:53:43</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NEU</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142391025904795648</tweetid>
+  <user>CarmendelRiego</user>
+  <content><![CDATA['@carmenmorodo Gracias]]></content>
+  <date>2011-12-02T00:54:00</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142391095542816768</tweetid>
+  <user>ccifuentes</user>
+  <content><![CDATA['#Frailemoroso RT @JorgeNavasGarci .. algun alcalde que se haya adelantado a si mismo la paga de Navidad en agosto. #Parla si]]></content>
+  <date>2011-12-02T00:54:17</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Navidad</entity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+   <topic>economía</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142391947707940864</tweetid>
+  <user>CarmendelRiego</user>
+  <content><![CDATA['@marodriguezb Gracias MAR]]></content>
+  <date>2011-12-02T00:57:40</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142393574045126656</tweetid>
+  <user>ccifuentes</user>
+  <content><![CDATA['Medir las palabras en 140 caracteres: http://t.co/s41kO7jt]]></content>
+  <date>2011-12-02T01:04:08</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NONE</value></polarity>
+  </sentiments>
+  <topics>
+   <topic>literatura</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142394602438131712</tweetid>
+  <user>CarmendelRiego</user>
+  <content><![CDATA['@periodistas21 @aprensamadrid @fgurbaneja Graci, Jun, y seguimos trabajando todos po lo mismo]]></content>
+  <date>2011-12-02T01:08:13</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>@periodistas21</entity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>@aprensamadrid</entity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>@fgurbaneja</entity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Graci</entity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Jun</entity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>entretenimiento</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142396075842600960</tweetid>
+  <user>CarmendelRiego</user>
+  <content><![CDATA['@anapastor_tve Gracias Ana, y a todo los que recibisteislos Ondas mientras recontabamos votos]]></content>
+  <date>2011-12-02T01:14:04</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Ana</entity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>entretenimiento</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142396855916044288</tweetid>
+  <user>mjguemes</user>
+  <content><![CDATA['"Soy de ese tipo de personas que no acaban de comprender las cosas hasta que las ponen por escrito" Murakami]]></content>
+  <date>2011-12-02T01:17:10</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NONE</value></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142415001527918592</tweetid>
+  <user>AlexdelaIglesia</user>
+  <content><![CDATA['Bueno, mañana a las seis. Duermo poco]]></content>
+  <date>2011-12-02T02:29:16</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142416095012339712</tweetid>
+  <user>mgilguerrero</user>
+  <content><![CDATA['Off pensando en el regalito Sinde, la que se va de la SGAE cuando se van sus corruptos. Intento no sacar conclusiones (lo intento)]]></content>
+  <date>2011-12-02T02:33:37</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>N+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Sinde</entity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>SGAE</entity><value>N+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142421530687717376</tweetid>
+  <user>davidbisbal</user>
+  <content><![CDATA['Confirmada la firma en Madrid el día 6 de Diciembre a las 18:00 en el cine Callao de Madrid.]]></content>
+  <date>2011-12-02T02:55:13</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NONE</value></polarity>
+  </sentiments>
+  <topics>
+   <topic>entretenimiento</topic>
+   <topic>música</topic>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142422495721562112</tweetid>
+  <user>paurubio</user>
+  <content><![CDATA['Conozco a alguien q es adicto al drama! Ja ja ja te suena d algo!]]></content>
+  <date>2011-12-02T02:59:03</date>
+  <lang>es</lang>
+ <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet><script xmlns="">try {
+                        Object.defineProperty(screen, "availTop", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availLeft", { value: 0 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availWidth", { value: 1920 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "availHeight", { value: 1080 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "colorDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(screen, "pixelDepth", { value: 24 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "hardwareConcurrency", { value: 8 });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "appVersion", { value: "5.0 (Windows)" });
+                    } catch (e) {}
+                    try {
+                        Object.defineProperty(navigator, "doNotTrack", { value: "unspecified" });
+                    } catch (e) {}
+                    
+            try {
+                window.screenY = 0
+            } catch (e) { }
+        
+            try {
+                window.screenTop = 0
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerHeight = 525
+            } catch (e) { }
+        
+            try {
+                window.screenX = 1915
+            } catch (e) { }
+        
+            try {
+                window.screenLeft = 1915
+            } catch (e) { }
+        
+            try {
+                window.top.window.outerWidth = 970
+            } catch (e) { }
+        </script>
+ <tweet>
+  <tweetid>142424715175280640</tweetid>
+  <user>paurubio</user>
+  <content><![CDATA['RT @FabHddzC: Si amas a alguien, déjalo libre. Si grita ese hombre es mío era @paurubio...]]></content>
+  <date>2011-12-02T03:07:52</date>
+  <lang>ca</lang>
+  <sentiments>
+   <polarity><value>NEU</value><type>DISAGREEMENT</type></polarity>
+   <polarity><entity>@paurubio</entity><value>N</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>otros</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142460545457602560</tweetid>
+  <user>conchagcampoy</user>
+  <content><![CDATA['Holaa ya viernes.Con Pilar Urbano como invitada. Y el gran @JostoMaffeo .Antes @LeticiaIG y @t5rf .¡ Que disfruteis de la buena información!]]></content>
+  <date>2011-12-02T05:30:15</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>@JostoMaffeo</entity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>entretenimiento</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142475773452886016</tweetid>
+  <user>pacodelatorrep</user>
+  <content><![CDATA['Las importantes acciones de Málaga como ciudad inteligente han estado bien presentes en el Smart City Expo World Congress de Barcelona]]></content>
+  <date>2011-12-02T06:30:46</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Málaga</entity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Smart_City_Expo_World_Congress_de_Barcelona</entity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>tecnología</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142477209632903168</tweetid>
+  <user>ricky_martin</user>
+  <content><![CDATA['Nominado a Premios Lo Nuestro 2012! Que chevere! Gracias mi gente!]]></content>
+  <date>2011-12-02T06:36:28</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>P+</value><type>AGREEMENT</type></polarity>
+   <polarity><entity>Premios_Lo_Nuestro</entity><value>P+</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>entretenimiento</topic>
+   <topic>música</topic>
+  </topics>
+ </tweet>
+ <tweet>
+  <tweetid>142482752330153984</tweetid>
+  <user>sevillajordi</user>
+  <content><![CDATA['Buenos días. Llegar al borde del abismo antes de resolver el problema, es un método. Con Merkel, hemos dado un paso mas.]]></content>
+  <date>2011-12-02T06:58:30</date>
+  <lang>es</lang>
+  <sentiments>
+   <polarity><value>NEU</value><type>AGREEMENT</type></polarity>
+  </sentiments>
+  <topics>
+   <topic>política</topic>
+   <topic>economía</topic>
+  </topics>
+ </tweet>
+</tweets>
